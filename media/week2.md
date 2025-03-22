@@ -1,3 +1,3 @@
-## 1주차 디자인 개요 발표 영상
+## 2주차 문제점 목록 발표 영상
 
-https://youtu.be/V-AReXKBTvU
+https://www.youtube.com/watch?v=bMJGFPFRQe0
