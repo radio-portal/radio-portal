@@ -19,6 +19,7 @@
 ## 주차별 활동
 ### 2주차 활동
 활동 내용: 문제점 목록 작성, 설문조사 진행 및 분석  
+발표url: [2주차 발표 영상](https://www.youtube.com/watch?v=bMJGFPFRQe0&ab_channel=%EB%B0%95%EB%AF%BC%EC%A7%80)   
 제출물: [문제점 목록(문서)](./docs/7조-2주차-피스캐스트-문제점%20개요서.pdf), [발표자료](./docs/7조-2주차-피스캐스트-발표자료.pdf)  
 pr 링크: [2주차 PR](https://github.com/radio-portal/radio-portal/pull/2)
 
