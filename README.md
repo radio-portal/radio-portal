@@ -17,8 +17,15 @@
 202202584 박민지
 
 ## 주차별 활동
+### 2주차 활동
+활동 내용: 문제점 목록 작성, 설문조사 진행 및 분석  
+발표url: [2주차 발표 영상](https://www.youtube.com/watch?v=bMJGFPFRQe0&ab_channel=%EB%B0%95%EB%AF%BC%EC%A7%80)   
+제출물: [문제점 목록(문서)](./docs/7조-2주차-피스캐스트-문제점%20개요서.pdf), [발표자료](./docs/7조-2주차-피스캐스트-발표자료.pdf)  
+pr 링크: [2주차 PR](https://github.com/radio-portal/radio-portal/pull/2)
+
+
 ### 1주차 활동 
 활동 내용: 디자인 개요서 작성  
-발표 url: [1주차 발표 영상](https://youtu.be/V-AReXKBTvU )  
+발표 url: [1주차 발표 영상](https://youtu.be/V-AReXKBTvU)  
 제출물: [디자인 개요서(문서)](https://github.com/radio-portal/radio-portal/blob/main/docs/1%EC%A3%BC%EC%B0%A8_%EB%94%94%EC%9E%90%EC%9D%B8%EA%B0%9C%EC%9A%94%EC%84%9C_7%EC%A1%B0.pdf), [발표자료](https://github.com/radio-portal/radio-portal/blob/main/docs/1%EC%A3%BC%EC%B0%A8_%EB%94%94%EC%9E%90%EC%9D%B8%EA%B0%9C%EC%9A%94%EC%84%9C_7%EC%A1%B0.pdf)  
 pr 링크: [1주차 PR](https://github.com/radio-portal/radio-portal/pull/1)
