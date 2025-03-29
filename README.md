@@ -19,8 +19,8 @@
 ## 주차별 활동
 ### 3주차 활동
 활동 내용: 브레인스토밍 결과 작성
-발표url: [3주차 발표 영상]()   
-제출물: [브레인스토밍 결과(문서)](), [발표자료]()  
+발표url: [3주차 발표 영상](https://www.youtube.com/watch?v=Bc2txOAU6Z8),
+제출물: [브레인스토밍 결과(문서)](./docs/7조-3주차-피스캐스트-브레인스토밍%20결과.pdf), [발표자료]()  
 pr 링크: [3주차 PR](https://github.com/radio-portal/radio-portal/pull/6)
 
 ### 2주차 활동
