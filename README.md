@@ -17,6 +17,12 @@
 202202584 박민지
 
 ## 주차별 활동
+### 3주차 활동
+활동 내용: 브레인스토밍 결과 작성  
+발표url: [3주차 발표 영상](https://www.youtube.com/watch?v=Bc2txOAU6Z8)  
+제출물: [브레인스토밍 결과(문서)](./docs/7조-3주차-피스캐스트-브레인스토밍%20결과.pdf), [발표자료](docs/7조-3주차-피스캐스트-발표자료.pdf)  
+pr 링크: [3주차 PR](https://github.com/radio-portal/radio-portal/pull/6)
+
 ### 2주차 활동
 활동 내용: 문제점 목록 작성, 설문조사 진행 및 분석  
 발표url: [2주차 발표 영상](https://www.youtube.com/watch?v=bMJGFPFRQe0&ab_channel=%EB%B0%95%EB%AF%BC%EC%A7%80)   
