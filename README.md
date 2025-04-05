@@ -17,6 +17,12 @@
 202202584 박민지
 
 ## 주차별 활동
+### 4주차 활동
+활동 내용: 문제정의서 작성  
+발표url: [4주차 발표 영상](https://youtu.be/O3rTbBs1tIk)  
+제출물: [문제정의서 결과(문서)](./docs/7조-4주차-피스캐스트-문제정의서.pdf), [발표자료](./docs/7조-4주차-피스캐스트-발표자료.pdf)  
+pr 링크: [4주차 PR](https://github.com/radio-portal/radio-portal/pull/7)
+
 ### 3주차 활동
 활동 내용: 브레인스토밍 결과 작성  
 발표url: [3주차 발표 영상](https://www.youtube.com/watch?v=Bc2txOAU6Z8)  
