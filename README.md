@@ -17,6 +17,12 @@
 202202584 박민지
 
 ## 주차별 활동
+### 6주차 활동
+활동 내용: 유스케이스 작성  
+발표url: [6주차 발표 영상](https://youtu.be/KTJe8RxrpJM)  
+제출물: [유스케이스 결과(문서)](./docs/7조-6주차-피스캐스트-유스케이스명세서.pdf), [발표자료](./docs/7조-6주차-피스캐스트-발표자료.pdf)  
+pr 링크: [6주차 PR](https://github.com/radio-portal/radio-portal/pull/8)
+
 ### 4주차 활동
 활동 내용: 문제정의서 작성  
 발표url: [4주차 발표 영상](https://youtu.be/O3rTbBs1tIk)  
