@@ -19,7 +19,7 @@
 ## 주차별 활동
 ### 8주차 활동
 활동 내용: 시퀀스다이어그램 작성  
-발표url: 
+발표url: [8주차 발표 영상](https://youtu.be/1YxZYFcNpxc)
 제출물: [시퀀스다이어그램 결과(문서)](./docs/7조-8주차-피스캐스트-시퀀스다이어그램.pdf), [발표자료](./docs/7조-8주차-피스캐스트-발표자료.pdf) 
 pr 링크: [8주차 PR](https://github.com/radio-portal/radio-portal/pull/9)
 
