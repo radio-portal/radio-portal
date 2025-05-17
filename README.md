@@ -17,10 +17,16 @@
 202202584 박민지
 
 ## 주차별 활동
+### 11주차 활동
+활동 내용: 시퀀스다이어그램 작성  
+발표url: [11주차 발표 영상](https://youtu.be/2zrpwzbbQ6o)  
+제출물: [테스트케이스 설계서](./docs/7조-11주차-피스캐스트-테스트케이스%20설계서.pdf),  [발표자료](./docs/7조-11주차-피스캐스트-발표자료.pdf)   
+pr 링크: [11주차 PR](https://github.com/radio-portal/radio-portal/pull/10)
+
 ### 8주차 활동
 활동 내용: 시퀀스다이어그램 작성  
-발표url: [8주차 발표 영상](https://youtu.be/1YxZYFcNpxc)
-제출물: [시퀀스다이어그램 결과(문서)](./docs/7조-8주차-피스캐스트-시퀀스다이어그램.pdf), [발표자료](./docs/7조-8주차-피스캐스트-발표자료.pdf) 
+발표url: [8주차 발표 영상](https://youtu.be/1YxZYFcNpxc)  
+제출물: [시퀀스다이어그램 결과(문서)](./docs/7조-8주차-피스캐스트-시퀀스다이어그램.pdf),   [발표자료](./docs/7조-8주차-피스캐스트-발표자료.pdf)   
 pr 링크: [8주차 PR](https://github.com/radio-portal/radio-portal/pull/9)
 
 ### 6주차 활동
