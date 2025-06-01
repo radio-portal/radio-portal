@@ -16,9 +16,15 @@
 202102621 김예림  
 202202584 박민지
 
+### 11주차 활동
+활동 내용: 테스트 결과 작성, 최종 발표 준비 
+발표url: [13주차 최종 발표 영상](https://youtu.be/Sw-0FK_jtrA)  
+제출물: [테스트 결과](./docs/7조-13주차-피스캐스트-테스트%20결과.pdf),  [최종 발표자료](./docs/7조-13주차-피스캐스트-발표자료.pdf)   
+pr 링크: [13주차 PR](https://github.com/radio-portal/radio-portal/pull/11)
+
 ## 주차별 활동
 ### 11주차 활동
-활동 내용: 시퀀스다이어그램 작성  
+활동 내용: 테스트케이스 설계서 작성
 발표url: [11주차 발표 영상](https://youtu.be/2zrpwzbbQ6o)  
 제출물: [테스트케이스 설계서](./docs/7조-11주차-피스캐스트-테스트케이스%20설계서.pdf),  [발표자료](./docs/7조-11주차-피스캐스트-발표자료.pdf)   
 pr 링크: [11주차 PR](https://github.com/radio-portal/radio-portal/pull/10)
